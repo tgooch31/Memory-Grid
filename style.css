@@ -1,0 +1,25 @@
+   .correct {
+       background-color: white;
+   }
+
+   .tile {
+    width: 100px;
+    height: 100px;
+    padding: 1em;
+    border: 1px solid #ddd;
+    display: inline-block;
+    background-color: black;
+  }
+
+  .tile:hover {
+      border: 1px solid red;
+  }
+
+  .red {
+      background-color: red;
+  }
+
+  .choice {
+      background-color: black;
+  }
+
