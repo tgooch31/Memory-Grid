@@ -1,6 +1,4 @@
-   .correct {
-       background-color: white;
-   }
+   
 
    .tile {
     width: 100px;
@@ -11,15 +9,30 @@
     background-color: black;
   }
 
+
   .tile:hover {
-      border: 1px solid red;
+      border: 3px solid red;
   }
+
+  .white {
+    background-color: white;
+       
+   }
 
   .red {
       background-color: red;
   }
 
+  .blue {
+    background-color: blue;
+  }
+  .purple {
+    background-color: purple;;
+  }
+
   .choice {
       background-color: black;
   }
+
+  
 
